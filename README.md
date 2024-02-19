@@ -11,4 +11,4 @@ The '/s/' part of the pattern matches any whitespace character, including spaces
 
 This regular expression pattern is a simple and efficient way to clean up credit card numbers before further processing. It's a common practice to remove any non-numeric characters from credit card numbers to ensure accurate validation and identification of the card type.
 
-The regualar expression (cardno) is used to match a text that begins with a character 5 followed by a number in a range of 1 to 5, followed by another number in the range of 0 to 9 that should appear in maximum of 14 times. The string, 5489542225671214, satisfies the regular expressions (cardno). the string 5689542225671214 does not satisfy the regular expression (cardno)
+The regualar expression (cardno) is used to match a text that begins with a character 5 followed by a number in a range of 1 to 5, followed by another number in the range of 0 to 9 that should appear in maximum of 14 times. The string, 5489542225671214, satisfies the regular expressions (cardno). the string 5689542225671214 does not satisfy the regular expression (cardno).
